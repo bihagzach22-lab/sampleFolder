@@ -1,0 +1,14 @@
+C:\Users\TRAINEE-BIHAG\source\repos\c#Console\c#Console\bin\Debug\net8.0\c#Console.exe
+C:\Users\TRAINEE-BIHAG\source\repos\c#Console\c#Console\bin\Debug\net8.0\c#Console.deps.json
+C:\Users\TRAINEE-BIHAG\source\repos\c#Console\c#Console\bin\Debug\net8.0\c#Console.runtimeconfig.json
+C:\Users\TRAINEE-BIHAG\source\repos\c#Console\c#Console\bin\Debug\net8.0\c#Console.dll
+C:\Users\TRAINEE-BIHAG\source\repos\c#Console\c#Console\bin\Debug\net8.0\c#Console.pdb
+C:\Users\TRAINEE-BIHAG\source\repos\c#Console\c#Console\obj\Debug\net8.0\c#Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRAINEE-BIHAG\source\repos\c#Console\c#Console\obj\Debug\net8.0\c#Console.AssemblyInfoInputs.cache
+C:\Users\TRAINEE-BIHAG\source\repos\c#Console\c#Console\obj\Debug\net8.0\c#Console.AssemblyInfo.cs
+C:\Users\TRAINEE-BIHAG\source\repos\c#Console\c#Console\obj\Debug\net8.0\c#Console.csproj.CoreCompileInputs.cache
+C:\Users\TRAINEE-BIHAG\source\repos\c#Console\c#Console\obj\Debug\net8.0\c#Console.dll
+C:\Users\TRAINEE-BIHAG\source\repos\c#Console\c#Console\obj\Debug\net8.0\refint\c#Console.dll
+C:\Users\TRAINEE-BIHAG\source\repos\c#Console\c#Console\obj\Debug\net8.0\c#Console.pdb
+C:\Users\TRAINEE-BIHAG\source\repos\c#Console\c#Console\obj\Debug\net8.0\c#Console.genruntimeconfig.cache
+C:\Users\TRAINEE-BIHAG\source\repos\c#Console\c#Console\obj\Debug\net8.0\ref\c#Console.dll
